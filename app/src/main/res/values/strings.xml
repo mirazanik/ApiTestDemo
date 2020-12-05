@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Miraz</string>
+    <string name="pref_key">BSAV24082020</string>
+    <string name="menu_icon_1">Home</string>
+    <string name="menu_icon_2">Search</string>
+    <string name="menu_icon_3">People</string>
+    <string name="menu_icon_4">Settings</string>
+    <string name="menu_icon_5">Favorites</string>
+    <string name="text_paging_scheme_1">Page</string>
+    <string name="text_paging_scheme_2">of 200</string>
+    <integer name="one">1</integer>
+    <string name="search_bar">Search</string>
+    <string name="search_bar_shows">Search a show</string>
+    <string name="search_bar_people">Search a person</string>
+    <string name="message_search">There are no results for your query</string>
+    <string name="message_favorite">There are no series marked as favorite</string>
+    <string name="text_login">Enter your password: </string>
+    <string name="text_uname">Enter your User Name: </string>
+    <string name="text_button_login">Login</string>
+    <string name="message_password_empty">Password is empty</string>
+    <string name="message_password_incorrect">Incorrect password</string>
+    <string name="last_password">Last password</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="set_password">Set password</string>
+    <string name="change_password">Change password</string>
+    <string name="set_button">Set</string>
+    <string name="change_button">Change</string>
+    <string name="password_equals">Passwords don\'t match</string>
+    <string name="change_password_success">Password changed successfully</string>
+    <string name="last_password_incorrect">Last password is incorrect</string>
+    <string name="password_short">Password too short</string>
+    <string name="series_has_participated">Series where they have participated</string>
+    <string name="favorite_series">Favorite series</string>
+    <string name="login_preference">com.miraz.login_preference</string>
+    <string name="login_status_preference">com.miraz.login_status_preference</string>
+</resources>
